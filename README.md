@@ -345,19 +345,6 @@ Desing:
 #### And more packages!
 ------
 
----
-
-## Screanshot <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/card-image.svg"/>
-#### view a screanshot for AllHackingTools
-<br>
-<p align="center">
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144658.jpg"/> 
-</p>
-
------
 ## Download more utility for hacking!
 
 #### uninstall AllHackingTools
@@ -365,22 +352,3 @@ Desing:
 * `bash Uninstall/Uninstall.sh`
 
 ------
-
-#### It downloads packages and utilities and configures the utilities.
-
-• [Dependencies](#depencies) • [Installing](#installing) • [Options](#viewmenu)
-
-<a id="Translate"></a>
-## Translate
-
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Ukraine.md"><img title="Unkraine" src="https://img.shields.io/badge/Translate%20to-Ukraine-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Russia.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Spanish.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
-</p>
-
-## Find Me 
-[![Github](https://img.shields.io/badge/Reddit-LOGESH-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/LOGI-LAB?utm_medium=android_app&utm_source=share)
-[![Github](https://img.shields.io/badge/TELEGRAM-LOGESH-orange?style=for-the-badge&logo=telegram)](https://t.me/cl_me_logesh)
-[![Github](https://img.shields.io/badge/GitHub-LOGI-LAB-yellow?style=for-the-badge&logo=github)](https://github.com/LOGI-LAB)
-
-
