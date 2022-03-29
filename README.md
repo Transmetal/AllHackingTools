@@ -1,5 +1,3 @@
-<img width="99.9%" src="https://github.com/LOGI-LAB/AllHackingTools/blob/main/ethical_2e0097bfc3.jpg"/>
-
 <p align="center">
 <a href="https://github.com/LOGI_LAB/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.6.3-yellow?style=for-the-badge&logo="></a>
 <a href="https://github.com/LOGI-LAB/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
