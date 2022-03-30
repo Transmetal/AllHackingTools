@@ -41,7 +41,7 @@ apt full-upgrade
 apt install git
 
 #clone this repository
-git clone https://github.com/LOGI-LAB/AllHackingTools
+git clone https://github.com/Transmetal/AllHackingTools
 
 #cd to directory allhackingtools
 cd AllHackingTools
